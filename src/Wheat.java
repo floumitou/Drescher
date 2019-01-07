@@ -1,4 +1,4 @@
 public class Wheat {
-    int PositionX, PositionY, numberOfGrain;
+    int numberOfGrain;
 
 }
